@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/17. The Quiet Spy.mp3-dfccca4c5b24ba8ae72cbe9a1eb4076b.mp3str"
+
+[deps]
+
+source_file="res://Musicas_Audio/17. The Quiet Spy.mp3"
+dest_files=[ "res://.import/17. The Quiet Spy.mp3-dfccca4c5b24ba8ae72cbe9a1eb4076b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
